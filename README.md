@@ -16,7 +16,8 @@ git clone https://github.com/freddan88/react-slider.git
 
 2. Register for an account on unsplash.com/developers, and generate your api key.<br/>URL: https://unsplash.com/developers
 
-3. Rename .env.rename to .env in the root of your folder and replace "Replace-this-with-your-unsplash-api-key-here!" with your key.
+3. Rename .env.rename to .env in the root of your folder and replace<br/>
+"Replace-this-with-your-unsplash-api-key-here!" with the key you copied from unsplash.com
 
 4. Open your terminal and run below command to start the app
 ```Bash
