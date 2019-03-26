@@ -16,7 +16,8 @@ class App extends Component {
 
 fetchImages = () => {
 
-  const api = `https://api.unsplash.com/search/photos?client_id=${process.env.REACT_APP_API_KEY}&page=1&per_page=5&query=nature`;
+  // const api = `https://api.unsplash.com/search/photos?client_id=${process.env.REACT_APP_API_KEY}&page=1&per_page=5&query=nature`;
+  const api = `https://api.unsplash.com/search/photos?client_id=1788c0b47507ffdc8ae39c16202592c941740bd2e9d05032156695ef25f78d60&page=1&per_page=5&query=nature`;
 
   fetch(api)
   .then(res => res.json())
