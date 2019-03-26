@@ -7,7 +7,6 @@ const Art = props => {
     return (
         <div>
             <img src={props.items.urls.full} alt={props.items.alt_description} />
-            <p className="credits">Photo by: {props.items.user.first_name}</p>
         </div>
     );
 };

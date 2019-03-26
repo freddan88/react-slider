@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Frame from '../Frame/Frame';
 import Art from '../Art/Art'
 import './App.css';
-
 class App extends Component {
 
   state = {
