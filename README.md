@@ -30,4 +30,5 @@ git clone https://github.com/freddan88/react-slider.git
 npm start
 ```
 
+---
 YRGO - React Assignment 2019 ( JS ) - 2019-03-26 09:00 URL [www.leemann.se/fredrik](http://www.leemann.se/fredrik)
