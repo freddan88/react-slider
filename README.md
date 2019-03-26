@@ -1,6 +1,9 @@
 ## Assignment in React ( Slider ) - Yrgo
 
 > This application is using fetch and the unsplash api to display images, name and links to authors pages...
+---
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd6edf96-693a-43cb-ab4c-899c5b82cef1/deploy-status)](https://app.netlify.com/sites/tender-williams-b29971/deploys)
 
 _Languages Used:_ <br/>
 _HTML CSS Javascript (React) Markdown <- Readme.md_
