@@ -21,7 +21,6 @@ fetchImages = () => {
   fetch(api)
   .then(res => res.json())
   .then(json => {
-    console.dir(json.results[0])
     this.setState({
       isLoaded: true,
       items: json.results,
