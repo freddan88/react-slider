@@ -27,7 +27,7 @@ git clone https://github.com/freddan88/react-slider.git
 
 4. Open your terminal and run below command to start the app
 ```Bash
-npm start
+npm install && npm start
 ```
 
 ---
