@@ -9,7 +9,7 @@ _Languages Used:_ <br/>
 _HTML CSS Javascript (React) Markdown <- Readme.md_
 
 Live preview:
-https://tender-williams-b29971.netlify.com
+https://react-slider.netlify.com/
 
 [Code License: MIT](https://choosealicense.com/licenses/mit/)
 
